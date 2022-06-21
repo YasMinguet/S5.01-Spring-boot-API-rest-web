@@ -1,0 +1,4 @@
+https://www.baeldung.com/spring-mvc-model-model-map-model-view
+https://www.arquitecturajava.com/entity-to-dto-y-java-8/
+https://www.youtube.com/watch?v=ba8arWqyTAw
+https://www.oscarblancarteblog.com/2018/11/30/data-transfer-object-dto-patron-diseno/
